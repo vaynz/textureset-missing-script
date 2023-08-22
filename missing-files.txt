@@ -1,0 +1,5 @@
+Missing textures in 'demon_dungeon.txt':
+  - d:\ymir work\terrainmaps\plechi_env_map\fantasy\fantasy15.dds
+  - d:\ymir work\terrainmaps\plechi_env_map\grass\grass49.dds
+  - d:\ymir work\terrainmaps\plechi_env_map\field\field13.dds
+  - d:\ymir work\terrainmaps\plechi_env_map\field\field14.dds
